@@ -2,7 +2,7 @@
 
 Welcome to Bit-Py
 ---------------------------------------------------
-My Bit-Py project is about various bitwise operations which can be perform on given numbers. There are having many functinality like exit button, back button and database management.
+My Bit-Py project is about various bitwise operations which can be perform on given numbers. There are having many functionality like exit button, back button and database management.
 
 Some Important Condition are there..............
 ------------
